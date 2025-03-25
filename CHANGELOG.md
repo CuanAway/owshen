@@ -7,3 +7,4 @@
 [2025-03-25 18:13:59] Menambahkan fitur kecil di owshen
 [2025-03-25 18:14:01] Menambahkan komentar di owshen
 [2025-03-25 18:14:04] Menambahkan fitur kecil di owshen
+[2025-03-25 18:14:06] Memperbarui dokumentasi di owshen
